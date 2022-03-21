@@ -1,0 +1,55 @@
+.big__title {
+    color: #FD4766;
+    font-size: 20px;
+}
+
+.salary__calculator {
+    padding: 70px 0;
+    height: 300px;
+    text-align: center;
+}
+
+.dataInput {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #E6E6E6;
+    padding: 10px 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+.dataInput+.dataInput {
+    margin-top: 15px;
+}
+
+.btn__submit {
+    color: #fff;
+    background-color: #FD4766;
+    border-color: #FD4766;
+    text-decoration: none !important;
+    font-size: 16px;
+    padding: 10px 0px;
+    display: block;
+    width: 10%;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.average {
+    text-align: center;
+    height: 500px;
+}
+
+.currency__transfer {
+    text-align: center;
+    height: 200px;
+}
+
+.rectangular {
+    text-align: center;
+    height: 400px;
+}
+
+.kyso {
+    text-align: center;
+}
